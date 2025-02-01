@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baylarov
-- 👀 I’m interested in Data management.
+- 👀 About me: https://about.me/baylarov
 - 📫 Feel free to reach me: baylarov@outlook.com
 
 <!---
