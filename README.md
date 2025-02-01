@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baylarov
 - 👀 About me: https://about.me/baylarov
-- 📫 Feel free to reach me: baylarov@outlook.com
+- 📫 Feel free to write: baylarov@outlook.com
 
 <!---
 baylarov/baylarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
